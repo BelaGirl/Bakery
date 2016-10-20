@@ -1,0 +1,56 @@
+﻿@model IEnumerable<IGrouping<string,Bakery.ViewModel.ProductViewModel>>
+
+@{
+    ViewBag.Title = "SearchProd";
+}
+
+@section script{
+    <script>
+        $(function () {
+            $(".thumbnail").hover(Over, Out);
+
+        });
+
+        function Over () {
+            var price= $(this).children(".hiddenPrice");
+            if (price.is(":hidden")) {
+                price.slideDown();
+            }
+        };
+
+        function Out () {
+            var price= $(this).children(".hiddenPrice");
+            if (price.not(":hidden")) {
+                price.slideUp();
+            }
+        };
+
+
+
+    </script>
+
+}
+
+@foreach (var category in Model)
+{
+    <h3 class="prodByCategory col-md-12 "> @category.Key</h3> 
+    <hr/>   
+      
+
+    foreach (var item in category)
+    { 
+         <div class="divList">
+            <div class="thumbnail">
+                <img src="~/image?title=@item.Image" class="imageList" />
+                <div class="hiddenPrice">
+                    <p>@item.Name</p>
+                    <p>Price = @item.Price</p>
+                </div>
+            </div>
+        </div>
+    }
+   
+
+    
+}
+

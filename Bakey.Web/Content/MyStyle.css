@@ -1,0 +1,183 @@
+﻿.nav-center
+{
+    margin-left:30%;   
+}
+
+.divider-left
+{
+    border-left:2px solid gray; 
+    height:25px; 
+    margin-top:10px;           
+}
+.searchLog {
+    margin-top:5px;
+
+}
+
+
+footer nav p
+{
+    margin-top:15px;
+    text-align:center;    
+}
+
+.category
+{
+    margin-top:8%;
+    padding:1%;
+    float:left;
+    width:200px;
+    height:300px;
+    background-color:Silver;  
+    border-radius:8px;
+    
+}
+
+
+.emptyResult {
+    height:300px;
+}
+
+.content
+{
+    float:left;
+    margin-top:8%;
+    margin-left:2%; 
+    width:850px;
+  
+    border-radius:5px;
+    border:1px darkgray groove;
+}
+
+.divList {
+    float:left;
+    margin-top:5px;
+    margin-left:15px;
+
+
+}
+
+.thumbnail {
+    position:relative;
+}
+
+
+.imageList {
+    width:250px;   
+       
+}
+
+
+
+.hiddenPrice {
+    display:none;
+    background-color:rgba(0, 0, 0, 0.60);
+    text-align:center;    
+    bottom:0px;
+    position:absolute;
+    width:96.5%;
+    color:white;
+    font-size:16px;
+   
+
+}
+
+
+.newProduct {
+    margin-left:10px;
+    margin-top:10px;
+    padding:5px;
+
+}
+
+.prodByCategory {
+    clear:both;
+    float:none;   
+    text-align:center;  
+    
+}
+
+
+.imgInter {
+    width:720px;
+    height:490px;
+}
+
+.history, .welcome {
+    font-family:'ESTRANGELO EDESSA';
+    font-size:18px;
+    text-align:justify;
+    padding:4%;
+   
+
+}
+
+.history p, .welcome p{
+    text-indent:6%;
+}
+
+.historyHeader, .welcomeHeader{
+    font-family:'ESTRANGELO EDESSA';
+    text-align:center;
+    text-shadow:6px 6px 4px darkcyan;
+    padding:2%;  
+    font-size:36px;
+
+}
+
+
+.contacts {
+    float:left;
+    width:35%;
+    padding:2%;
+    padding-top:15%;
+    text-align:center;
+    font-family:'ESTRANGELO EDESSA';
+    font-size:17px;
+
+}
+
+.map {
+    width:65%;
+    padding:2%;
+    float:left;
+}
+
+
+.homePage {
+    border:1px solid darkgray;
+    margin-top:8%;
+    padding:1%;
+}
+
+
+.categoryThumbnail {
+    margin-top:20px;
+
+}
+
+.welcome {
+    font-size: 24px;
+}
+
+.welcomeHeader {
+    font-size:45px;
+    text-align:center;
+}
+
+
+.adminProduct {
+    font-family:'ESTRANGELO EDESSA';
+    text-align:center;
+    font-size:18px;
+
+}
+
+.addBtn {
+    margin-left:25px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+
+

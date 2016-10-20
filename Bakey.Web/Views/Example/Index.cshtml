@@ -1,0 +1,150 @@
+﻿@using System.Web.Optimization;
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Scripts.Render("~/webApi")
+
+
+<div class="modal fade" tabindex="-1" id="productCreateModal">
+    <div class="modal-dialog">
+        <div class="modal-content" id="productContent">
+            <div class="modal-header">
+                <button class="close" type="button" data-dismiss="modal">x</button>
+                <h4 class="modal-title">Create a new product</h4>
+            </div>
+            <div class="modal-body">
+                <form id="createForm">
+
+                    <div class="form-horizontal">
+                        <span class="text-danger" id="SummaryValidation"></span>
+                        <div class="form-group">
+                            <label class="control-label col-xs-3">Name:</label>
+                            <div class="col-xs-6">
+                                <input type="text" class="form-control" name="name" />
+                                <span class="text-danger" id="NameValidation"></span>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="control-label col-xs-3">Price:</label>
+                            <div class="col-xs-6">
+                                <input type="text" class="form-control" name="price" />
+                                <span class="text-danger" id="PriceValidation"></span>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="control-label col-xs-3">Add Image:</label>
+                            <div class="col-xs-6">
+                                <input type="file" name="upload" />
+                            </div>
+                       </div>
+
+
+                        <div class="form-group">
+                            <div class="col-md-offset-3 col-xs-9">
+                                <input type="submit" value="Create" class="btn btn-default" id="sendAdd" />
+                            </div>
+                        </div>
+                    </div>
+                </form>
+
+            </div>
+
+            <div class="modal-footer">
+                <button class="btn btn-default" type="button" data-dismiss="modal">Close</button>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" tabindex="-1" id="productEditModal">
+    <div class="modal-dialog">
+        <div class="modal-content" id="productContent">
+            <div class="modal-header">
+                <button class="close" type="button" data-dismiss="modal">x</button>
+                <h4 class="modal-title">Edit the product</h4>
+            </div>
+            <div class="modal-body">
+                <form id="editForm">
+
+
+
+                </form>
+            </div>
+
+            <div class="modal-footer">
+                <button class="btn btn-default" type="button" data-dismiss="modal">Close</button>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div class="addBtn">
+    @Html.ActionLink("Add new", "Create", "Admin", new { }, new { @class = "btn btn-success createBtn", role = "button" })
+</div>
+
+
+
+<div class="productContainer">
+
+</div>
+
+
+<script id="productTemplate" type="text/x-jquery-tmpl">
+    <div class="divList">
+        <div class="thumbnail adminProduct ">
+            <img src="/image?title=${Image}" class="imageList" />
+            <span>${Name}</span><br />
+            <span>Price = ${Price}</span>
+            <p>
+                @Html.ActionLink("Edit", "Edit", "Admin", new { }, new { @class = "btn btn-info editBtn", role = "button", prodId = "${Id}", prodCatId = "${CatId}" })
+                @Html.ActionLink("Delete", "Delete", "Admin", new { }, new { @class = "btn btn-danger deleteBtn", role = "button", prodId = "${Id}" })
+            </p>
+        </div>
+    </div>
+</script>
+
+<script id="EditTemplate" type="text/x-jquery-tmpl">
+    <div class="form-horizontal">
+        <span class="text-danger" id="SummaryEditValidation"></span>
+        <div class="form-group">
+            <label class="control-label col-xs-3">Name:</label>
+            <div class="col-xs-6">
+                <input type="text" class="form-control" name="name" value="${Name}"/>
+                <span class="text-danger" id="NameEditValidation"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-xs-3">Price:</label>
+            <div class="col-xs-6">
+                <input type="text" class="form-control" name="price" value="${Price}"/>
+                <span class="text-danger" id="PriceEditValidation"></span>
+            </div>
+        </div>
+
+        <input type="hidden" name="id" value="${Id}" />
+        <input type="hidden" name="image" value="${Image}"/>
+        <input type="hidden" name="catId" value="${CatId}"/>
+
+
+
+        <div class="form-group">
+            <div class="col-md-offset-3 col-xs-9">
+                <input type="submit" value="Create" class="btn btn-default" id="sendEdit" />
+            </div>
+        </div>
+    </div>
+</script>
+
+
+

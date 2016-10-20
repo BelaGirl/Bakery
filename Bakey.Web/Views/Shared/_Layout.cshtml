@@ -1,0 +1,100 @@
+﻿@using System.Web.Optimization
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />     
+
+    @Scripts.Render("~/js")
+    @Styles.Render("~/css")   
+   
+
+    
+</head>
+<body>
+    <div class="modal fade" tabindex="-1" id="loginModal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button class="close" type="button" data-dismiss="modal">x</button>
+                    <h4 class="modal-title">Enter your account</h4>
+                </div>
+                <div class="modal-body">
+                  
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-default" type="button" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="container">
+        <header>
+            <nav class="navbar navbar-default navbar-fixed-top">
+                <div class="col-md-5">
+                    <div class="navbar-brand">BAKERY</div>
+                </div>
+
+                <div class="col-md-2">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li class="divider-left"></li>
+                        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                        <li class="divider-left"></li>
+                        <li>@Html.ActionLink("About", "About", "Home")</li>
+                    </ul>
+                </div>
+
+
+                    <div class="searchLog">
+                        <div class="col-md-2 col-md-offset-2">
+                            <form action="@Url.Action("SearchProd", "Home")" method="post">
+                                <div class="input-group">
+                                    <input name="searchName" type="text" class="form-control" placeholder="Search..." />
+                                    <span class="input-group-btn">
+                                        <button class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+                                    </span>
+                                </div>
+                            </form>
+
+                        </div>
+
+                        <div class="col-md-1">                           
+                             <button class="btn btn-default">
+                                @if (HttpContext.Current.Request.Cookies[".bakeryOwin"] != null)
+                                {
+                                   @Html.ActionLink("Logout", "Logout", "Account")
+                                }
+                                else
+                                {
+                                    @Html.ActionLink("Login", "Login", "Account", new { }, new { id = "loginLink" })
+                                }
+                           </button>
+
+                        </div>
+                    </div>
+
+</nav>
+        </header>
+
+        <div class="category">
+            <ul class="nav nav-pills nav-stacked">
+                <li>@Html.ActionLink("Cake", "Products", "Home", new { id = 1 }, new { @class = "getBtn", catId = 1 })</li>
+                <li>@Html.ActionLink("Cookie", "Products", "Home", new { id = 2 }, new { @class = "getBtn", catId = 2 })</li>
+                <li>@Html.ActionLink("Pastry", "Products", "Home", new { id = 3 }, new { @class = "getBtn", catId = 3 })</li>
+                <li>@Html.ActionLink("Bread", "Products", "Home", new { id = 4 }, new { @class = "getBtn", catId = 4 })</li>
+            </ul>           
+        </div>
+
+        <div class="content">
+            @RenderSection("script", false)
+            @RenderBody()
+        </div>
+</div>
+
+   
+</body>
+</html>

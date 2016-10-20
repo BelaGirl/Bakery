@@ -1,0 +1,46 @@
+﻿@model Bakery.ViewModel.LoginViewModel
+
+@using (Html.BeginForm("Login", "Account", FormMethod.Post, new { id = "formLogin" }))
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            <label for="email" class="control-label col-xs-3">Email:</label>
+            <div class="col-xs-6">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+                    @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control", name = "email" } })                    
+                </div>
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="password" class="control-label col-xs-3">Password:</label>
+            <div class="col-xs-6">
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+                    @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control",  name = "password" } })                   
+                </div>
+                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-xs-8 col-md-offset-3">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+   </div>
+
+        
+}
+        <br />
+
+        
+       @Html.ActionLink("Register", "Register", "Account", new { }, new { id = "registerLink", @class= "btn btn-info col-xs-6 col-md-offset-3", role="button"})
+       
+<br/>

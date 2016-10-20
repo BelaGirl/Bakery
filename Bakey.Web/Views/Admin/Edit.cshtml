@@ -1,0 +1,67 @@
+﻿@model Bakery.ViewModel.ProductViewModel
+
+
+
+<div class="modal-header">
+    <button class="close" type="button" data-dismiss="modal">x</button>
+    <h4 class="modal-title">Edit the product</h4>
+</div>
+<div class="modal-body">
+
+    @using (Html.BeginForm("Edit", "Admin", FormMethod.Post, new { id = "editForm" }))
+    {
+        @Html.AntiForgeryToken()
+
+        @Html.HiddenFor(model => model.CatId)
+        @Html.HiddenFor(model => model.Image)
+
+        <div class="form-horizontal">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-xs-3" })
+                <div class="col-xs-6">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-pencil"></i></span>
+                        @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control", name = "name" } })
+                    </div>
+                    @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Price, htmlAttributes: new { @class = "control-label col-xs-3" })
+                <div class="col-xs-6">
+                    <div class="input-group">
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-usd"></i></span>
+                        @Html.EditorFor(model => model.Price, new { htmlAttributes = new { @class = "form-control", name = "price" } })
+                    </div>
+                    @Html.ValidationMessageFor(model => model.Price, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+       
+            <div class="form-group">
+                <label class = "control-label col-xs-3">Change image</label>                
+                <div class="col-xs-6">
+                    <input type="file" title="Browse" name="upload" value="Image" />               
+                </div>
+            </div>
+
+
+
+            <div class="form-group">
+                <div class="col-md-offset-3 col-xs-9">
+                    <input type="submit" value="Create" class="btn btn-default" id="submitBtn" />
+                </div>
+            </div>
+        </div>
+    }
+
+</div>
+
+<div class="modal-footer">
+    <button class="btn btn-default" type="button" data-dismiss="modal">Close</button>
+</div>
+
+
+

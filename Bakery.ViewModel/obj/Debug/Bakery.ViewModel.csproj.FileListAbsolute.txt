@@ -1,0 +1,24 @@
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.ViewModel\bin\Debug\Bakery.ViewModel.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.ViewModel\bin\Debug\Bakery.ViewModel.pdb
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.ViewModel\obj\Debug\Bakery.ViewModel.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.ViewModel\obj\Debug\Bakery.ViewModel.pdb
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.ViewModel\obj\Debug\Bakery.ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.ViewModel\bin\Debug\Bakery.ViewModel.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.ViewModel\bin\Debug\Bakery.ViewModel.pdb
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.ViewModel\obj\Debug\Bakery.ViewModel.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.ViewModel\obj\Debug\Bakery.ViewModel.pdb
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.ViewModel\obj\Debug\Bakery.ViewModel.csprojResolveAssemblyReference.cache
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.ViewModel\bin\Debug\Bakery.ViewModel.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.ViewModel\bin\Debug\Bakery.ViewModel.pdb
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.ViewModel\obj\Debug\Bakery.ViewModel.csprojResolveAssemblyReference.cache
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.ViewModel\obj\Debug\Bakery.ViewModel.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.ViewModel\obj\Debug\Bakery.ViewModel.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.ViewModel\bin\Debug\Bakery.ViewModel.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.ViewModel\bin\Debug\Bakery.ViewModel.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.ViewModel\obj\Debug\Bakery.ViewModel.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.ViewModel\obj\Debug\Bakery.ViewModel.pdb
+I:\Bakery_Test\Bakery.ViewModel\bin\Debug\Bakery.ViewModel.dll
+I:\Bakery_Test\Bakery.ViewModel\bin\Debug\Bakery.ViewModel.pdb
+I:\Bakery_Test\Bakery.ViewModel\obj\Debug\Bakery.ViewModel.csprojResolveAssemblyReference.cache
+I:\Bakery_Test\Bakery.ViewModel\obj\Debug\Bakery.ViewModel.dll
+I:\Bakery_Test\Bakery.ViewModel\obj\Debug\Bakery.ViewModel.pdb

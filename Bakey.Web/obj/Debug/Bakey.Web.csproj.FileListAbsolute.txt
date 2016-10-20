@@ -1,0 +1,595 @@
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\csc.exe
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\vbc.exe
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakey.Web.dll.config
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakey.Web.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakey.Web.pdb
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.BL.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.ViewModel.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Helpers.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Mvc.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Razor.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\AutoMapper.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.DAL.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.BL.pdb
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.ViewModel.pdb
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.xml
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Razor.xml
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.xml
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Helpers.xml
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Mvc.xml
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\AutoMapper.xml
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.DAL.pdb
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\EntityFramework.resources.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\obj\Debug\Bakey.Web.csprojResolveAssemblyReference.cache
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\obj\Debug\Bakey.Web.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\obj\Debug\Bakey.Web.pdb
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\csc.exe
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\vbc.exe
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakey.Web.dll.config
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakey.Web.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakey.Web.pdb
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.BL.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.ViewModel.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Helpers.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Mvc.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Razor.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\AutoMapper.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.DAL.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.BL.pdb
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.ViewModel.pdb
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Razor.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Mvc.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\AutoMapper.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.DAL.pdb
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\EntityFramework.resources.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\obj\Debug\Bakey.Web.csprojResolveAssemblyReference.cache
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\obj\Debug\Bakey.Web.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\obj\Debug\Bakey.Web.pdb
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Owin.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\csc.exe
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\vbc.exe
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\VBCSCompiler.exe
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakey.Web.dll.config
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakey.Web.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakey.Web.pdb
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.BL.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.ViewModel.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.SqlServer.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Security.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Owin.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Mvc.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Razor.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Deployment.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Razor.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\AutoMapper.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.DAL.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Helpers.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.BL.pdb
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.ViewModel.pdb
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.SqlServer.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Security.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Razor.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Deployment.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Razor.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Mvc.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\AutoMapper.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.DAL.pdb
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\EntityFramework.resources.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Razor.resources.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Webpages.resources.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Webpages.Deployment.resources.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Webpages.Razor.resources.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Mvc.resources.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\obj\Debug\Bakey.Web.csprojResolveAssemblyReference.cache
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\obj\Debug\Bakey.Web.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakey.Web\obj\Debug\Bakey.Web.pdb
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\csc.exe
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\vbc.exe
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\VBCSCompiler.exe
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakey.Web.dll.config
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakey.Web.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakey.Web.pdb
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.BL.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.ViewModel.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.SqlServer.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Security.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Owin.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Mvc.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Razor.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Deployment.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Razor.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\AutoMapper.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.DAL.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Helpers.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.BL.pdb
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.ViewModel.pdb
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.xml
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.SqlServer.xml
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.xml
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Security.xml
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Razor.xml
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.xml
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Deployment.xml
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Razor.xml
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Mvc.xml
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\AutoMapper.xml
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.DAL.pdb
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\EntityFramework.resources.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Razor.resources.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Webpages.resources.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Webpages.Deployment.resources.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Webpages.Razor.resources.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Mvc.resources.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\obj\Debug\Bakey.Web.csprojResolveAssemblyReference.cache
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\obj\Debug\Bakey.Web.dll
+E:\Nastya\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\obj\Debug\Bakey.Web.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\csc.exe
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\vbc.exe
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\VBCSCompiler.exe
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakey.Web.dll.config
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakey.Web.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakey.Web.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.BL.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.ViewModel.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.SqlServer.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Security.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Owin.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Mvc.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Razor.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Deployment.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Razor.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\AutoMapper.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.DAL.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Helpers.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.BL.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.ViewModel.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\EntityFramework.SqlServer.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Security.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Razor.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Deployment.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Webpages.Razor.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\System.Web.Mvc.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\AutoMapper.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\Bakery.DAL.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\EntityFramework.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Razor.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Webpages.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Webpages.Deployment.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Webpages.Razor.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\bin\ru\System.Web.Mvc.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\obj\Debug\Bakey.Web.csprojResolveAssemblyReference.cache
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\obj\Debug\Bakey.Web.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakey.Web\obj\Debug\Bakey.Web.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\roslyn\csc.exe
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\roslyn\vbc.exe
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\roslyn\VBCSCompiler.exe
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Bakey.Web.dll.config
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Bakey.Web.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Bakey.Web.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Bakery.BL.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Bakery.ViewModel.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\EntityFramework.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\EntityFramework.SqlServer.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Microsoft.Owin.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Microsoft.Owin.Security.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Owin.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\System.Web.Mvc.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\System.Web.Razor.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\System.Web.Webpages.Deployment.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\System.Web.Webpages.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\System.Web.Webpages.Razor.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\AutoMapper.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Bakery.DAL.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\System.Web.Helpers.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Bakery.BL.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Bakery.ViewModel.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\EntityFramework.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\EntityFramework.SqlServer.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Microsoft.Owin.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Microsoft.Owin.Security.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\System.Web.Razor.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\System.Web.Webpages.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\System.Web.Webpages.Deployment.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\System.Web.Webpages.Razor.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\System.Web.Mvc.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\AutoMapper.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\Bakery.DAL.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\ru\EntityFramework.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\ru\System.Web.Razor.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\ru\System.Web.Webpages.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\ru\System.Web.Webpages.Deployment.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\ru\System.Web.Webpages.Razor.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\bin\ru\System.Web.Mvc.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\obj\Debug\Bakey.Web.csprojResolveAssemblyReference.cache
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\obj\Debug\Bakey.Web.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakey.Web\obj\Debug\Bakey.Web.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\roslyn\csc.exe
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\roslyn\vbc.exe
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\roslyn\VBCSCompiler.exe
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Bakey.Web.dll.config
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Bakey.Web.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Bakey.Web.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Bakery.BL.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Bakery.ViewModel.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\EntityFramework.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\EntityFramework.SqlServer.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Security.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Owin.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Mvc.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Razor.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.Deployment.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.Razor.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\AutoMapper.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Bakery.DAL.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Helpers.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Bakery.BL.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Bakery.ViewModel.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\EntityFramework.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\EntityFramework.SqlServer.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Security.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Razor.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.Deployment.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.Razor.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Mvc.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\AutoMapper.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Bakery.DAL.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\ru\EntityFramework.resources.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\ru\System.Web.Razor.resources.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\ru\System.Web.Webpages.resources.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\ru\System.Web.Webpages.Deployment.resources.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\ru\System.Web.Webpages.Razor.resources.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\ru\System.Web.Mvc.resources.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\obj\Debug\Bakey.Web.csprojResolveAssemblyReference.cache
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\obj\Debug\Bakey.Web.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\obj\Debug\Bakey.Web.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Bakery.Dependency.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Autofac.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Autofac.Integration.Mvc.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Bakery.Dependency.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Autofac.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Autofac.Integration.Mvc.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Newtonsoft.Json.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Net.Http.Formatting.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Http.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Http.WebHost.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Newtonsoft.Json.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Net.Http.Formatting.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Http.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Http.WebHost.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Autofac.Integration.WebApi.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Autofac.Integration.WebApi.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Antlr3.Runtime.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Optimization.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\WebGrease.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\Antlr3.Runtime.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakey.Web\bin\System.Web.Optimization.xml
+I:\Bakery_Test\Bakey.Web\bin\roslyn\csc.exe
+I:\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Bakery_Test\Bakey.Web\bin\roslyn\System.Collections.Immutable.dll
+I:\Bakery_Test\Bakey.Web\bin\roslyn\System.Reflection.Metadata.dll
+I:\Bakery_Test\Bakey.Web\bin\roslyn\vbc.exe
+I:\Bakery_Test\Bakey.Web\bin\roslyn\VBCSCompiler.exe
+I:\Bakery_Test\Bakey.Web\bin\roslyn\VBCSCompiler.exe.config
+I:\Bakery_Test\Bakey.Web\bin\Bakey.Web.dll.config
+I:\Bakery_Test\Bakey.Web\bin\Bakey.Web.dll
+I:\Bakery_Test\Bakey.Web\bin\Bakey.Web.pdb
+I:\Bakery_Test\Bakey.Web\bin\Antlr3.Runtime.dll
+I:\Bakery_Test\Bakey.Web\bin\Autofac.dll
+I:\Bakery_Test\Bakey.Web\bin\Autofac.Integration.Mvc.dll
+I:\Bakery_Test\Bakey.Web\bin\Autofac.Integration.WebApi.dll
+I:\Bakery_Test\Bakey.Web\bin\Bakery.BL.dll
+I:\Bakery_Test\Bakey.Web\bin\Bakery.Dependency.dll
+I:\Bakery_Test\Bakey.Web\bin\Bakery.ViewModel.dll
+I:\Bakery_Test\Bakey.Web\bin\EntityFramework.dll
+I:\Bakery_Test\Bakey.Web\bin\EntityFramework.SqlServer.dll
+I:\Bakery_Test\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.dll
+I:\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Security.Cookies.dll
+I:\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Security.dll
+I:\Bakery_Test\Bakey.Web\bin\Microsoft.Web.Infrastructure.dll
+I:\Bakery_Test\Bakey.Web\bin\Newtonsoft.Json.dll
+I:\Bakery_Test\Bakey.Web\bin\Owin.dll
+I:\Bakery_Test\Bakey.Web\bin\System.Net.Http.Formatting.dll
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Http.dll
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Http.WebHost.dll
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Mvc.dll
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Optimization.dll
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Razor.dll
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.Deployment.dll
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.dll
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.Razor.dll
+I:\Bakery_Test\Bakey.Web\bin\WebGrease.dll
+I:\Bakery_Test\Bakey.Web\bin\AutoMapper.dll
+I:\Bakery_Test\Bakey.Web\bin\Bakery.DAL.dll
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Helpers.dll
+I:\Bakery_Test\Bakey.Web\bin\Bakery.BL.pdb
+I:\Bakery_Test\Bakey.Web\bin\Bakery.Dependency.pdb
+I:\Bakery_Test\Bakey.Web\bin\Bakery.ViewModel.pdb
+I:\Bakery_Test\Bakey.Web\bin\Antlr3.Runtime.pdb
+I:\Bakery_Test\Bakey.Web\bin\Autofac.xml
+I:\Bakery_Test\Bakey.Web\bin\Autofac.Integration.Mvc.xml
+I:\Bakery_Test\Bakey.Web\bin\Autofac.Integration.WebApi.xml
+I:\Bakery_Test\Bakey.Web\bin\EntityFramework.xml
+I:\Bakery_Test\Bakey.Web\bin\EntityFramework.SqlServer.xml
+I:\Bakery_Test\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.xml
+I:\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Security.xml
+I:\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Security.Cookies.xml
+I:\Bakery_Test\Bakey.Web\bin\Newtonsoft.Json.xml
+I:\Bakery_Test\Bakey.Web\bin\System.Net.Http.Formatting.xml
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Http.xml
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Http.WebHost.xml
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Optimization.xml
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Razor.xml
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.xml
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.Deployment.xml
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.Razor.xml
+I:\Bakery_Test\Bakey.Web\bin\System.Web.Mvc.xml
+I:\Bakery_Test\Bakey.Web\bin\AutoMapper.xml
+I:\Bakery_Test\Bakey.Web\bin\Bakery.DAL.pdb
+I:\Bakery_Test\Bakey.Web\bin\ru\EntityFramework.resources.dll
+I:\Bakery_Test\Bakey.Web\bin\ru\EntityFramework.SqlServer.resources.dll
+I:\Bakery_Test\Bakey.Web\bin\ru\System.Web.Razor.resources.dll
+I:\Bakery_Test\Bakey.Web\bin\ru\System.Web.Webpages.resources.dll
+I:\Bakery_Test\Bakey.Web\bin\ru\System.Web.Webpages.Deployment.resources.dll
+I:\Bakery_Test\Bakey.Web\bin\ru\System.Web.Webpages.Razor.resources.dll
+I:\Bakery_Test\Bakey.Web\bin\ru\System.Web.Mvc.resources.dll
+I:\Bakery_Test\Bakey.Web\obj\Debug\Bakey.Web.dll
+I:\Bakery_Test\Bakey.Web\obj\Debug\Bakey.Web.pdb
+E:\Настя\Bakery_Test\Bakey.Web\bin\roslyn\csc.exe
+E:\Настя\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Настя\Bakery_Test\Bakey.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Настя\Bakery_Test\Bakey.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\roslyn\vbc.exe
+E:\Настя\Bakery_Test\Bakey.Web\bin\roslyn\VBCSCompiler.exe
+E:\Настя\Bakery_Test\Bakey.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Настя\Bakery_Test\Bakey.Web\bin\Bakey.Web.dll.config
+E:\Настя\Bakery_Test\Bakey.Web\bin\Bakey.Web.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Bakey.Web.pdb
+E:\Настя\Bakery_Test\Bakey.Web\bin\Antlr3.Runtime.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Autofac.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Autofac.Integration.Mvc.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Autofac.Integration.WebApi.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Bakery.BL.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Bakery.Dependency.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Bakery.ViewModel.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\EntityFramework.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\EntityFramework.SqlServer.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Security.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Newtonsoft.Json.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Owin.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Net.Http.Formatting.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Http.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Http.WebHost.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Mvc.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Optimization.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Razor.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.Deployment.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.Razor.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\WebGrease.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Bakery.DAL.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\AutoMapper.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Helpers.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\Bakery.BL.pdb
+E:\Настя\Bakery_Test\Bakey.Web\bin\Bakery.Dependency.pdb
+E:\Настя\Bakery_Test\Bakey.Web\bin\Bakery.ViewModel.pdb
+E:\Настя\Bakery_Test\Bakey.Web\bin\Antlr3.Runtime.pdb
+E:\Настя\Bakery_Test\Bakey.Web\bin\Autofac.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\Autofac.Integration.Mvc.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\Autofac.Integration.WebApi.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\EntityFramework.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\EntityFramework.SqlServer.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Security.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\Newtonsoft.Json.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Net.Http.Formatting.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Http.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Http.WebHost.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Optimization.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Razor.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.Deployment.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Webpages.Razor.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\System.Web.Mvc.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\Bakery.DAL.pdb
+E:\Настя\Bakery_Test\Bakey.Web\bin\AutoMapper.xml
+E:\Настя\Bakery_Test\Bakey.Web\bin\ru\EntityFramework.resources.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\ru\System.Web.Razor.resources.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\ru\System.Web.Webpages.resources.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\ru\System.Web.Webpages.Deployment.resources.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\ru\System.Web.Webpages.Razor.resources.dll
+E:\Настя\Bakery_Test\Bakey.Web\bin\ru\System.Web.Mvc.resources.dll
+E:\Настя\Bakery_Test\Bakey.Web\obj\Debug\Bakey.Web.csprojResolveAssemblyReference.cache
+E:\Настя\Bakery_Test\Bakey.Web\obj\Debug\Bakey.Web.dll
+E:\Настя\Bakery_Test\Bakey.Web\obj\Debug\Bakey.Web.pdb

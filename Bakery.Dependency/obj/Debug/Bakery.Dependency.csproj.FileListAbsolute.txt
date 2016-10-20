@@ -1,0 +1,132 @@
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\obj\Debug\Bakery.Dependency.csprojResolveAssemblyReference.cache
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.Dependency.dll.config
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.Dependency.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.Dependency.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.Integration.Mvc.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.BL.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.DAL.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Helpers.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Mvc.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Razor.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\AutoMapper.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.ViewModel.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\EntityFramework.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.BL.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.DAL.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.Integration.Mvc.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Helpers.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Mvc.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Razor.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\AutoMapper.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.ViewModel.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\EntityFramework.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\ru\EntityFramework.resources.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\obj\Debug\Bakery.Dependency.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\obj\Debug\Bakery.Dependency.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.Integration.WebApi.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Newtonsoft.Json.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Net.Http.Formatting.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Http.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Http.WebHost.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.Integration.WebApi.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\Newtonsoft.Json.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Net.Http.Formatting.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Http.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Http.WebHost.xml
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.Dependency.dll.config
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.Dependency.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.Dependency.pdb
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.Integration.Mvc.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.Integration.WebApi.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.BL.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.DAL.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Microsoft.Web.Infrastructure.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Newtonsoft.Json.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Net.Http.Formatting.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Helpers.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Http.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Http.WebHost.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Mvc.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Razor.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.Deployment.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.Razor.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\AutoMapper.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.ViewModel.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\EntityFramework.dll
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.BL.pdb
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.DAL.pdb
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.xml
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.Integration.Mvc.xml
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.Integration.WebApi.xml
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Newtonsoft.Json.xml
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Net.Http.Formatting.xml
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Helpers.xml
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Http.xml
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Http.WebHost.xml
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Mvc.xml
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Razor.xml
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.xml
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.Deployment.xml
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.Razor.xml
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\AutoMapper.xml
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.ViewModel.pdb
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\EntityFramework.xml
+I:\Bakery_Test\Bakery.Dependency\bin\Debug\ru\EntityFramework.resources.dll
+I:\Bakery_Test\Bakery.Dependency\obj\Debug\Bakery.Dependency.csprojResolveAssemblyReference.cache
+I:\Bakery_Test\Bakery.Dependency\obj\Debug\Bakery.Dependency.dll
+I:\Bakery_Test\Bakery.Dependency\obj\Debug\Bakery.Dependency.pdb
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.Dependency.dll.config
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.Dependency.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.Dependency.pdb
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.Integration.Mvc.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.Integration.WebApi.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.BL.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.DAL.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Newtonsoft.Json.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Net.Http.Formatting.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Helpers.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Http.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Http.WebHost.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Mvc.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Razor.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\AutoMapper.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.ViewModel.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\EntityFramework.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.BL.pdb
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.DAL.pdb
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.xml
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.Integration.Mvc.xml
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Autofac.Integration.WebApi.xml
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Newtonsoft.Json.xml
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Net.Http.Formatting.xml
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Helpers.xml
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Http.xml
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Http.WebHost.xml
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Mvc.xml
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.Razor.xml
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.xml
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\AutoMapper.xml
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\Bakery.ViewModel.pdb
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\EntityFramework.xml
+E:\Настя\Bakery_Test\Bakery.Dependency\bin\Debug\ru\EntityFramework.resources.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\obj\Debug\Bakery.Dependency.csprojResolveAssemblyReference.cache
+E:\Настя\Bakery_Test\Bakery.Dependency\obj\Debug\Bakery.Dependency.dll
+E:\Настя\Bakery_Test\Bakery.Dependency\obj\Debug\Bakery.Dependency.pdb

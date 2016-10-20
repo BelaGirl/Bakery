@@ -1,0 +1,92 @@
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\Bakery.DAL.dll.config
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\Bakery.DAL.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\Bakery.DAL.pdb
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.Init.resources
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.FK.resources
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.AddProduct.resources
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.DAL\obj\Debug\Bakery.DAL.csproj.GenerateResource.Cache
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.DAL\obj\Debug\Bakery.DAL.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.DAL\obj\Debug\Bakery.DAL.pdb
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.DAL\obj\Debug\Bakery.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.Init.resources
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.FK.resources
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.AddProduct.resources
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\obj\Debug\Bakery.DAL.csproj.GenerateResource.Cache
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\obj\Debug\Bakery.DAL.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\obj\Debug\Bakery.DAL.pdb
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\Bakery.DAL.dll.config
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\Bakery.DAL.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\Bakery.DAL.pdb
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.Auth.resources
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\bin\Debug\System.Web.Helpers.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.HashPassword.resources
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.DAL\obj\Debug\Bakery.DAL.csprojResolveAssemblyReference.cache
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\bin\Debug\Bakery.DAL.dll.config
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\bin\Debug\Bakery.DAL.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\bin\Debug\Bakery.DAL.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\bin\Debug\EntityFramework.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\bin\Debug\System.Web.Helpers.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\bin\Debug\EntityFramework.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\bin\Debug\ru\EntityFramework.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\obj\Debug\Bakery.DAL.csprojResolveAssemblyReference.cache
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.Init.resources
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.FK.resources
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.AddProduct.resources
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.Auth.resources
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.HashPassword.resources
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\obj\Debug\Bakery.DAL.csproj.GenerateResource.Cache
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\obj\Debug\Bakery.DAL.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.DAL\obj\Debug\Bakery.DAL.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\bin\Debug\Bakery.DAL.dll.config
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\bin\Debug\Bakery.DAL.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\bin\Debug\Bakery.DAL.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\bin\Debug\EntityFramework.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\bin\Debug\System.Web.Helpers.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\bin\Debug\EntityFramework.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\bin\Debug\ru\EntityFramework.resources.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.Init.resources
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.FK.resources
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.AddProduct.resources
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.Auth.resources
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.HashPassword.resources
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.csproj.GenerateResource.Cache
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.pdb
+I:\Bakery_Test\Bakery.DAL\bin\Debug\Bakery.DAL.dll.config
+I:\Bakery_Test\Bakery.DAL\bin\Debug\Bakery.DAL.dll
+I:\Bakery_Test\Bakery.DAL\bin\Debug\Bakery.DAL.pdb
+I:\Bakery_Test\Bakery.DAL\bin\Debug\EntityFramework.dll
+I:\Bakery_Test\Bakery.DAL\bin\Debug\EntityFramework.SqlServer.dll
+I:\Bakery_Test\Bakery.DAL\bin\Debug\System.Web.Helpers.dll
+I:\Bakery_Test\Bakery.DAL\bin\Debug\EntityFramework.xml
+I:\Bakery_Test\Bakery.DAL\bin\Debug\EntityFramework.SqlServer.xml
+I:\Bakery_Test\Bakery.DAL\bin\Debug\ru\EntityFramework.resources.dll
+I:\Bakery_Test\Bakery.DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+I:\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.csprojResolveAssemblyReference.cache
+I:\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.Init.resources
+I:\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.FK.resources
+I:\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.AddProduct.resources
+I:\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.Auth.resources
+I:\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.Migrations.HashPassword.resources
+I:\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.csproj.GenerateResource.Cache
+I:\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.dll
+I:\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.DAL\obj\Debug\Bakery.DAL.csprojResolveAssemblyReference.cache

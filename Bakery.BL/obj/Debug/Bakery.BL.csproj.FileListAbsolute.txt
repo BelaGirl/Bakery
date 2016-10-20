@@ -1,0 +1,151 @@
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.BL.dll.config
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.BL.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.BL.pdb
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\AutoMapper.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.DAL.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.ViewModel.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\EntityFramework.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.DAL.pdb
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.ViewModel.pdb
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\AutoMapper.xml
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\EntityFramework.xml
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\obj\Debug\Bakery.BL.csprojResolveAssemblyReference.cache
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\obj\Debug\Bakery.BL.dll
+C:\Users\Костя\Desktop\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\obj\Debug\Bakery.BL.pdb
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.BL.dll.config
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.BL.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.BL.pdb
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\AutoMapper.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.DAL.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.ViewModel.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\EntityFramework.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.DAL.pdb
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.ViewModel.pdb
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\AutoMapper.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\EntityFramework.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\obj\Debug\Bakery.BL.csprojResolveAssemblyReference.cache
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\obj\Debug\Bakery.BL.dll
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\obj\Debug\Bakery.BL.pdb
+C:\Users\Костя\Desktop\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\System.Web.Helpers.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.BL.dll.config
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.BL.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.BL.pdb
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\AutoMapper.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.DAL.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.ViewModel.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\EntityFramework.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\System.Web.Helpers.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.DAL.pdb
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.ViewModel.pdb
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\AutoMapper.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\EntityFramework.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\ru\EntityFramework.resources.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\obj\Debug\Bakery.BL.csprojResolveAssemblyReference.cache
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\obj\Debug\Bakery.BL.dll
+E:\Настя\ASP.NET мое\Домашнее Asp.net\08_CodeFirst_Bakery_Home\Bakery.BL\obj\Debug\Bakery.BL.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.BL.dll.config
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.BL.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.BL.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\AutoMapper.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.DAL.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.ViewModel.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\EntityFramework.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\System.Web.Helpers.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.DAL.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\Bakery.ViewModel.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\AutoMapper.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\EntityFramework.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\ru\EntityFramework.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\obj\Debug\Bakery.BL.csprojResolveAssemblyReference.cache
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\obj\Debug\Bakery.BL.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home\Bakery.BL\obj\Debug\Bakery.BL.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\bin\Debug\Bakery.BL.dll.config
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\bin\Debug\Bakery.BL.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\bin\Debug\Bakery.BL.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\bin\Debug\AutoMapper.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\bin\Debug\Bakery.DAL.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\bin\Debug\Bakery.ViewModel.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\bin\Debug\EntityFramework.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\bin\Debug\System.Web.Helpers.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\bin\Debug\Bakery.DAL.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\bin\Debug\Bakery.ViewModel.pdb
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\bin\Debug\AutoMapper.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\bin\Debug\EntityFramework.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\bin\Debug\ru\EntityFramework.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\obj\Debug\Bakery.BL.csprojResolveAssemblyReference.cache
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\obj\Debug\Bakery.BL.dll
+E:\Настя\ASP.NET Tasks\Asp.net_Home\08_CodeFirst_Bakery_Home — копия\Bakery.BL\obj\Debug\Bakery.BL.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\obj\Debug\Bakery.BL.csprojResolveAssemblyReference.cache
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\obj\Debug\Bakery.BL.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\obj\Debug\Bakery.BL.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\bin\Debug\Bakery.BL.dll.config
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\bin\Debug\Bakery.BL.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\bin\Debug\Bakery.BL.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\bin\Debug\AutoMapper.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\bin\Debug\Bakery.DAL.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\bin\Debug\Bakery.ViewModel.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\bin\Debug\EntityFramework.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\bin\Debug\System.Web.Helpers.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\bin\Debug\Bakery.DAL.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\bin\Debug\Bakery.ViewModel.pdb
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\bin\Debug\AutoMapper.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\bin\Debug\EntityFramework.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\bin\Debug\ru\EntityFramework.resources.dll
+E:\Настя\ASP.NET Tasks\Bakery_Test\Bakery.BL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+I:\Bakery_Test\Bakery.BL\bin\Debug\Bakery.BL.dll.config
+I:\Bakery_Test\Bakery.BL\bin\Debug\Bakery.BL.dll
+I:\Bakery_Test\Bakery.BL\bin\Debug\Bakery.BL.pdb
+I:\Bakery_Test\Bakery.BL\bin\Debug\AutoMapper.dll
+I:\Bakery_Test\Bakery.BL\bin\Debug\Bakery.DAL.dll
+I:\Bakery_Test\Bakery.BL\bin\Debug\Bakery.ViewModel.dll
+I:\Bakery_Test\Bakery.BL\bin\Debug\EntityFramework.dll
+I:\Bakery_Test\Bakery.BL\bin\Debug\EntityFramework.SqlServer.dll
+I:\Bakery_Test\Bakery.BL\bin\Debug\System.Web.Helpers.dll
+I:\Bakery_Test\Bakery.BL\bin\Debug\Bakery.DAL.pdb
+I:\Bakery_Test\Bakery.BL\bin\Debug\Bakery.ViewModel.pdb
+I:\Bakery_Test\Bakery.BL\bin\Debug\AutoMapper.xml
+I:\Bakery_Test\Bakery.BL\bin\Debug\EntityFramework.xml
+I:\Bakery_Test\Bakery.BL\bin\Debug\EntityFramework.SqlServer.xml
+I:\Bakery_Test\Bakery.BL\bin\Debug\ru\EntityFramework.resources.dll
+I:\Bakery_Test\Bakery.BL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+I:\Bakery_Test\Bakery.BL\obj\Debug\Bakery.BL.csprojResolveAssemblyReference.cache
+I:\Bakery_Test\Bakery.BL\obj\Debug\Bakery.BL.dll
+I:\Bakery_Test\Bakery.BL\obj\Debug\Bakery.BL.pdb
+E:\Настя\Bakery_Test\Bakery.BL\bin\Debug\Bakery.BL.dll.config
+E:\Настя\Bakery_Test\Bakery.BL\bin\Debug\Bakery.BL.dll
+E:\Настя\Bakery_Test\Bakery.BL\bin\Debug\Bakery.BL.pdb
+E:\Настя\Bakery_Test\Bakery.BL\bin\Debug\AutoMapper.dll
+E:\Настя\Bakery_Test\Bakery.BL\bin\Debug\Bakery.DAL.dll
+E:\Настя\Bakery_Test\Bakery.BL\bin\Debug\Bakery.ViewModel.dll
+E:\Настя\Bakery_Test\Bakery.BL\bin\Debug\EntityFramework.dll
+E:\Настя\Bakery_Test\Bakery.BL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Настя\Bakery_Test\Bakery.BL\bin\Debug\System.Web.Helpers.dll
+E:\Настя\Bakery_Test\Bakery.BL\bin\Debug\Bakery.DAL.pdb
+E:\Настя\Bakery_Test\Bakery.BL\bin\Debug\Bakery.ViewModel.pdb
+E:\Настя\Bakery_Test\Bakery.BL\bin\Debug\AutoMapper.xml
+E:\Настя\Bakery_Test\Bakery.BL\bin\Debug\EntityFramework.xml
+E:\Настя\Bakery_Test\Bakery.BL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Настя\Bakery_Test\Bakery.BL\bin\Debug\ru\EntityFramework.resources.dll
+E:\Настя\Bakery_Test\Bakery.BL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\Настя\Bakery_Test\Bakery.BL\obj\Debug\Bakery.BL.csprojResolveAssemblyReference.cache
+E:\Настя\Bakery_Test\Bakery.BL\obj\Debug\Bakery.BL.dll
+E:\Настя\Bakery_Test\Bakery.BL\obj\Debug\Bakery.BL.pdb

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Bakery.ViewModel.ProductViewModel>
+
+@section script{ 
+<script src="~/Scripts/CreateEditPopUp.js"></script>
+}
+
+
+
+<div class="modal fade" tabindex="-1" id="productModal">
+    <div class="modal-dialog">
+        <div class="modal-content" id="productContent">
+            
+            
+        </div>
+    </div>
+</div>
+
+
+<div class="addBtn">
+    @Html.ActionLink("Add new", "Create", "Admin", new { }, new { @class = "btn btn-success createBtn", role = "button"  })
+</div>
+
+
+@foreach (var item in Model)
+{  <div class="divList">
+        <div class="thumbnail">            
+            <img src="~/image?title=@item.Image" class="imageList" />       
+                     
+            <div class="caption adminProduct">   
+                <span>@item.Name</span><br/>
+                <span>Price = @item.Price</span>            
+                <p>
+                    @Html.ActionLink("Edit", "Edit", "Admin", new { id = item.Id }, new { @class = "btn btn-info editBtn", role = "button" })
+                    @Html.ActionLink("Delete", "Delete", "Admin", new { id = item.Id }, new { @class = "btn btn-danger", role = "button" })                  
+                </p>
+            </div>
+        </div>
+    </div>
+}
+
+
